@@ -1,7 +1,7 @@
 ---
 title: "Welcome to my blog"
 ---
-theme:minima
+
 I'm glad you are here. I plan to talk about ...
 # 宁静致远
 ## 白日依山尽 黄河入海流
